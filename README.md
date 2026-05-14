@@ -2,6 +2,9 @@
 
 A simple **Java application** containerized using **Docker** to demonstrate how Java applications can be compiled and executed inside a Docker container using a custom Dockerfile.
 
+**Acknowledgment :-** This was made along with TrainwithShubham's youtube docker series.
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk">
   <img src="https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker">
